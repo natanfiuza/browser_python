@@ -31,4 +31,4 @@ Antes de usar o `python main.py` voce deve executar o comando abaixo, ele inicia
 pipenv shell
 ```
 
-Pronto o projeto vai executar, caso você tenha alguma sugestao basta entrar em contato comigo: [N@taniel.com.br](mailto:n@taniel.com.br?subject=Browser%20Exemplo)
+Pronto o projeto vai executar, caso você tenha alguma sugestao basta entrar em contato comigo: [N@taniel.com.br](mailto:n@taniel.com.br)
